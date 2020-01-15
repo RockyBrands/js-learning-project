@@ -11,3 +11,4 @@ Build a ticket and time-tracking website for internal use.
 - Send email notifications when tasks are completed, created, or assigned
 - Dashboard page to show analytics by user and week
 - Must not include proprietary information
+- Must be built while drinking copious amounts of caffeine
